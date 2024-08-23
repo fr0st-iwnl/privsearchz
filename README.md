@@ -1,7 +1,7 @@
 # fr0st-whoogle
 
 > [!NOTE]
-> This script was made for my personal use.
+> This script was made for my personal use
 
 # Find Your Local IP Address
 > To find your local IP address just type :
