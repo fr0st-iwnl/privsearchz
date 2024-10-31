@@ -1,6 +1,6 @@
 # Docker Management: SearX, SearXNG and Whoogle
 
-### INFO on how to remove these docker managements :
+### Instructions for removing Docker containers and images :
 
 ## SearX
 
