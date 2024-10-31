@@ -36,4 +36,4 @@ sudo ./privsearch.sh
 #### Remove Docker Setups :
 
 - For more informations check :
-  - [REMOVE.MD](https://github.com/fr0st-iwnl/privsearchz/blob/main/REMOVE.MD)
+  - [REMOVE.md](https://github.com/fr0st-iwnl/privsearchz/blob/main/REMOVE.md)
